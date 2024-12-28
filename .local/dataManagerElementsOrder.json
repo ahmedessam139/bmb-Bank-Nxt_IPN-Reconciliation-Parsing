@@ -12,10 +12,14 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "variable1&Sequence_6",
         "strArr_Lines&Sequence_3",
         "str_CurrentFileFullText&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [
+        "in_ConnectionString",
+        "in_FailedFolder",
+        "in_ProcessedFolder",
         "in_UnprocessedFolder"
       ],
       "ConstantsSectionElementsOrder": [],

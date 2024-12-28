@@ -1,0 +1,57 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_UnprocessedFolder",
+      "DisplayName": "in_UnprocessedFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "D:\\Work\\Bank NXT\\Projects\\IPN Reconsilation Parsing\\in-out\\unprocessed",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_ProcessedFolder",
+      "DisplayName": "in_ProcessedFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "D:\\Work\\Bank NXT\\Projects\\IPN Reconciliation Parsing\\in-out\\processed",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_FailedFolder",
+      "DisplayName": "in_FailedFolder",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "D:\\Work\\Bank NXT\\Projects\\IPN Reconciliation Parsing\\in-out\\Failed",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_ConnectionString",
+      "DisplayName": "in_ConnectionString",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Data Source=EGLAESSAM;Integrated Security=True;Encrypt=False",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

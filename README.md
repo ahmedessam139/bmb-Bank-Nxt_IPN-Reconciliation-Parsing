@@ -118,7 +118,7 @@ The input files should be text files with fixed-width fields containing the foll
 
 ## Database Schema
 
-Table Name: `RowReconciliationTransactions` in database `BankNXT_DB`
+Table Name: `IPNReconciliation_RowIPNReconciliationTransactions` in database `UiPath Processes Data`
 
 ### Columns:
 
@@ -175,6 +175,7 @@ Table Name: `RowReconciliationTransactions` in database `BankNXT_DB`
 | ConvenienceFeeCurrency         | VARCHAR   | 3      |
 | TipsFeeAmount                  | VARCHAR   | 18     |
 | TipsFeeCurrency                | VARCHAR   | 3      |
+| EnteringTime                   | DATETIME  | -      |
 | SourceFileName                 | VARCHAR   | 255    |
 
 ## Usage
